@@ -1,0 +1,7 @@
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\bin\Debug\CalculatorServiceSanity.dll.config
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\bin\Debug\CalculatorServiceSanity.dll
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\bin\Debug\CalculatorServiceSanity.pdb
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\obj\Debug\CalculatorServiceSanity.csprojResolveAssemblyReference.cache
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\obj\Debug\CalculatorServiceSanity.dll
+c:\users\vtripathi\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceSanity\obj\Debug\CalculatorServiceSanity.pdb
